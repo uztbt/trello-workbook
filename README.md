@@ -2,12 +2,12 @@
 Make a board for a workbook on Trello!
 
 ## Motivation
-I wanted to use Trello as a progress manager of my work book (Cracking the Coding Interview).
-I distribute this software for people in the same need.
+I wanted to use Trello as a progress manager of my work book _(Cracking the Coding Interview)_.
+I distribute this software for like minded people.
 
 ## API
 ### Command
-`$ trello-workbook "Cracking the Coding Interview" questions_list.txt`
+`$ trello-workbook USERNAME BOARD_NAME questions_list.txt`
 
 `questions_list.txt`
 ```
@@ -36,7 +36,7 @@ I distribute this software for people in the same need.
 3.6 Animal Shelter
 ```
 ### Output
-A List 1, 2, and 3 containing their own check lists in the board.
+A List 1, 2, and 3 with the cards for each question.
 
 ## License
 MIT License
