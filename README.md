@@ -7,7 +7,7 @@ I distribute this software for like minded people.
 
 ## API
 ### Command
-`$ trello-workbook USERNAME BOARD_NAME questions_list.txt`
+`$ trello-workbook USER_NAME BOARD_NAME questions_list.txt`
 
 `questions_list.txt`
 ```
