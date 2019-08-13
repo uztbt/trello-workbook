@@ -38,5 +38,7 @@ I distribute this software for like minded people.
 ### Output
 A List 1, 2, and 3 with the cards for each question.
 
+![result.png](./img/result.png)
+
 ## License
 MIT License
